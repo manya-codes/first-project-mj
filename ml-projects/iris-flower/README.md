@@ -2,7 +2,7 @@
 My first Machine Learning project where I explore the Iris flower dataset using two classic classification algorithms:
 - Decision Tree and
 - K-Nearest Neighbors (KNN)
-I’ve documented every improvement step-by-step — from basic output to clean, readable, and human-friendly results.
+__ I’ve documented every improvement step-by-step — from basic output to clean, readable, and human-friendly results.
 
 📁 Repository Structure
 | File                                 | Description                                                            |
@@ -17,9 +17,9 @@ I’ve documented every improvement step-by-step — from basic output to clean,
 
 🧠 What is the Iris Dataset?
 It’s a classic dataset used in ML containing:
--150 rows of flower data
--3 classes of flowers: setosa, versicolor, virginica
--4 features: sepal length/width, petal length/width
+- 150 rows of flower data
+- 3 classes of flowers: setosa, versicolor, virginica
+- 4 features: sepal length/width, petal length/width
 
 💡 Project Evolution (and Learning)
 | Version | Whats New                                      | Why It Matters                             |
