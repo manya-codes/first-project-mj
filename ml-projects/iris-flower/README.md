@@ -1,10 +1,12 @@
 🌸 Iris Flower Classification - ML Journey with KNN & Decision Tree
 
-
 My first Machine Learning project where I explore the Iris flower dataset using two classic classification algorithms:
 - Decision Tree and
 - K-Nearest Neighbors (KNN)
 - I’ve documented every improvement step-by-step, from basic output to clean, readable, and human-friendly results.
+
+
+
 
 
 📁 Repository Structure
@@ -40,6 +42,7 @@ It’s a classic dataset used in ML containing:
 - Accuracy: 100% on test set
 - Visualization: Side-by-side scatter plots for actual vs predicted flower types
 - Table view: Added using "pandas" for clearer comparison
+
 
 🔧 How to Run
 - Clone this repo or download ZIP
