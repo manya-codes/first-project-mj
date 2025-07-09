@@ -17,9 +17,9 @@ I’ve documented every improvement step-by-step — from basic output to clean,
 
 🧠 What is the Iris Dataset?
 It’s a classic dataset used in ML containing:
-150 rows of flower data
-3 classes of flowers: setosa, versicolor, virginica
-4 features: sepal length/width, petal length/width
+-150 rows of flower data
+-3 classes of flowers: setosa, versicolor, virginica
+-4 features: sepal length/width, petal length/width
 
 💡 Project Evolution (and Learning)
 | Version | Whats New                                      | Why It Matters                             |
@@ -30,17 +30,17 @@ It’s a classic dataset used in ML containing:
 | v5      | 📊 Used pandas to show a side-by-side table   | Professional & presentation-ready          |
 
 📊 Model Performance
-Accuracy: 100% on test set
-Visualization: Side-by-side scatter plots for actual vs predicted flower types
-Table view: Added using "pandas" for clearer comparison
+-Accuracy: 100% on test set
+-Visualization: Side-by-side scatter plots for actual vs predicted flower types
+-Table view: Added using "pandas" for clearer comparison
 
 🔧 How to Run
-1.Clone this repo or download ZIP
-2.Install the required libraries:
+-Clone this repo or download ZIP
+-Install the required libraries:
 "pip install scikit-learn pandas matplotlib"
-3.Open any notebook in Jupyter:
+-Open any notebook in Jupyter:
 jupyter notebook
-4.Explore different versions to see how the project evolves
+-Explore different versions to see how the project evolves
 
 
 ⚙️ Tech Stack
