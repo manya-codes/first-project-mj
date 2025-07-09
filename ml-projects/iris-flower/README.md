@@ -16,7 +16,7 @@ I’ve documented every improvement step-by-step, from basic output to clean, re
 | 4.`iris_knn_readable_output.ipynb`    | Removed `np.str_()` for cleaner text output                            |
 | 5.`iris_knn_presentable_output.ipynb` | Final version showing results in a table using `pandas` for comparison |
 | `iris_predictions.csv`                 | Output of actual vs predicted flower types                             |
-| `README.`                              | Project overview & evolution                                           |
+| `README.md`                              | Project overview & evolution                                           |
 
 
 🧠 What is the Iris Dataset?
