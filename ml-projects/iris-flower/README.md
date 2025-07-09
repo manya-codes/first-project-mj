@@ -4,6 +4,7 @@ My first Machine Learning project where I explore the Iris flower dataset using 
 - K-Nearest Neighbors (KNN)
 - I’ve documented every improvement step-by-step, from basic output to clean, readable, and human-friendly results.
 
+
 📁 Repository Structure
 | File                                 | Description                                                            |
 | ------------------------------------ | ---------------------------------------------------------------------- |
@@ -15,12 +16,14 @@ My first Machine Learning project where I explore the Iris flower dataset using 
 | iris_predictions.csv                 | Output of actual vs predicted flower types                             |
 | README.md                            | Project overview & evolution                                           |
 
+
 🧠 What is the Iris Dataset?
 It’s a classic dataset used in ML containing:
 - 150 rows of flower data
 - 3 classes of flowers: setosa, versicolor, virginica
 - 4 features: sepal length/width, petal length/width
-  
+
+
 💡 Project Evolution (and Learning)
 | Version | What's New                                    | Why It Matters                             |
 | ------- | --------------------------------------------- | ------------------------------------------ |
@@ -29,7 +32,6 @@ It’s a classic dataset used in ML containing:
 | `v3`    | 📝 Converted output numbers to flower names   | Made results human-readable                |
 | `v4`    | 🧹 Removed `np.str_()` artifacts              | Cleaned the output formatting              |
 | `v5`    | 📊 Used `pandas` to show a side-by-side table | Professional & presentation-ready          |
-
 
 
 📊 Model Performance
@@ -44,21 +46,16 @@ It’s a classic dataset used in ML containing:
 - Open any notebook in Jupyter:
 jupyter notebook
 - Explore different versions to see how the project evolves
+- Run the cells one by one
 
 
-⚙️ Tech Stack
-- Python
-- scikit-learn
-- Jupyter Notebook
+👩🏻‍💻 Author
+made with love and deep curiosity by Manya Jain, just out of school not in any college yet hahah
+guided through steps by ChatGPT, understood and improved all the codes by myself
 
-📊 Algorithms Tried
-- Decision Tree Classifier ✅
-- K-Nearest Neighbors Classifier ✅
 
 🔍 Results
 Achieved up to **100% accuracy** on test data 🎯
 
-📝 How to Run
-1. Clone this repo
-2. Open the `.ipynb` notebook in Jupyter
-3. Run the cells one by one
+
+and that's it hope you liked the visit!
