@@ -2,7 +2,7 @@
 My first Machine Learning project where I explore the Iris flower dataset using two classic classification algorithms:
 - Decision Tree and
 - K-Nearest Neighbors (KNN)
-__ I’ve documented every improvement step-by-step — from basic output to clean, readable, and human-friendly results.
+- I’ve documented every improvement step-by-step, from basic output to clean, readable, and human-friendly results.
 
 📁 Repository Structure
 | File                                 | Description                                                            |
@@ -28,6 +28,16 @@ It’s a classic dataset used in ML containing:
 | v3      | 📝 Converted output numbers to flower names   | Made results human-readable                |
 | v4      | 🧹 Removed np.str_()                          | Cleaned the output formatting              |
 | v5      | 📊 Used pandas to show a side-by-side table   | Professional & presentation-ready          |
+
+| Version | What's New                                    | Why It Matters                             |
+| ------- | --------------------------------------------- | ------------------------------------------ |
+| `v1`    | ✅ Used `DecisionTreeClassifier`               | Got first working model with high accuracy |
+| `v2`    | 🔄 Switched to `KNN`                          | Explored another popular algorithm         |
+| `v3`    | 📝 Converted output numbers to flower names   | Made results human-readable                |
+| `v4`    | 🧹 Removed `np.str_()` artifacts              | Cleaned the output formatting              |
+| `v5`    | 📊 Used `pandas` to show a side-by-side table | Professional & presentation-ready          |
+
+
 
 📊 Model Performance
 -Accuracy: 100% on test set
