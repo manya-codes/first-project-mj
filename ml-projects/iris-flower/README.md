@@ -35,12 +35,12 @@ It’s a classic dataset used in ML containing:
 -Table view: Added using "pandas" for clearer comparison
 
 🔧 How to Run
--Clone this repo or download ZIP
--Install the required libraries:
+- Clone this repo or download ZIP
+- Install the required libraries:
 "pip install scikit-learn pandas matplotlib"
--Open any notebook in Jupyter:
+- Open any notebook in Jupyter:
 jupyter notebook
--Explore different versions to see how the project evolves
+- Explore different versions to see how the project evolves
 
 
 ⚙️ Tech Stack
