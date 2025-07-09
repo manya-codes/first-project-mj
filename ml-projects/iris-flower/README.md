@@ -13,11 +13,11 @@ I’ve documented every improvement step-by-step, from basic output to clean, re
 📁 Repository Structure
 | File                                 | Description                                                            |
 | ------------------------------------ | ---------------------------------------------------------------------- |
-| 1_iris_decision_tree.ipynb           | First attempt using "DecisionTreeClassifier"                           |
-| 2_iris_knn.ipynb                     | Switched to "KNeighborsClassifier" (KNN)                               |
-| 3_iris_knn_word_output.ipynb         | Improved KNN by converting predicted numbers to actual flower names    |
-| 4_iris_knn_readable_output.ipynb     | Removed "np.str_()" for cleaner text output                            |
-| 5_iris_knn_presentable_output.ipynb  | Final version showing results in a table using "pandas" for comparison |
+| 1.iris_decision_tree.ipynb           | First attempt using "DecisionTreeClassifier"                           |
+| 2.iris_knn.ipynb                     | Switched to "KNeighborsClassifier" (KNN)                               |
+| 3.iris_knn_word_output.ipynb         | Improved KNN by converting predicted numbers to actual flower names    |
+| 4.iris_knn_readable_output.ipynb     | Removed "np.str_()" for cleaner text output                            |
+| 5.iris_knn_presentable_output.ipynb  | Final version showing results in a table using "pandas" for comparison |
 | iris_predictions.csv                 | Output of actual vs predicted flower types                             |
 | README.md                            | Project overview & evolution                                           |
 
