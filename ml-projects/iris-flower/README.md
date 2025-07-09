@@ -1,12 +1,25 @@
-🌸 Iris Flower Classification
+🌸 Iris Flower Classification — ML Journey with KNN & Decision Tree
+My first Machine Learning project where I explore the Iris flower dataset using two classic classification algorithms:
+🔹 Decision Tree and
+🔹 K-Nearest Neighbors (KNN)
+I’ve documented every improvement step-by-step — from basic output to clean, readable, and human-friendly results.
 
-This is my **first machine learning project**, built using Python and Jupyter Notebook.  
-It uses the **Iris dataset** to classify flowers based on their measurements.
+📁 Repository Structure
+| File                                 | Description                                                            |
+| ------------------------------------ | ---------------------------------------------------------------------- |
+| 1_iris_decision_tree.ipynb           | First attempt using "DecisionTreeClassifier"                           |
+| 2_iris_knn_classifier.ipynb          | Switched to "KNeighborsClassifier" (KNN)                               |
+| 3_knn_output_flower_names.ipynb      | Improved KNN by converting predicted numbers to actual flower names    |
+| 4_knn_clean_output.ipynb             | Removed "np.str_()" for cleaner text output                            |
+| 5_knn_comparison_with_pandas.ipynb   | Final version showing results in a table using "pandas" for comparison |
+| iris_predictions.csv                 | Output of actual vs predicted flower types                             |
+| README.md                            | Project overview & evolution                                           |
 
-🧠 What it Does
-The model learns how to predict the type of Iris flower (Setosa, Versicolor, Virginica) using:
-- Petal length and width
-- Sepal length and width
+🧠 What is the Iris Dataset?
+It’s a classic dataset used in ML containing:
+150 rows of flower data
+3 classes of flowers: setosa, versicolor, virginica
+4 features: sepal length/width, petal length/width
 
 ⚙️ Tech Stack
 - Python
