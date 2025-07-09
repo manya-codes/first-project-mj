@@ -34,6 +34,15 @@ Accuracy: 100% on test set
 Visualization: Side-by-side scatter plots for actual vs predicted flower types
 Table view: Added using "pandas" for clearer comparison
 
+🔧 How to Run
+1.Clone this repo or download ZIP
+2.Install the required libraries:
+"pip install scikit-learn pandas matplotlib"
+3.Open any notebook in Jupyter:
+jupyter notebook
+4.Explore different versions to see how the project evolves
+
+
 ⚙️ Tech Stack
 - Python
 - scikit-learn
