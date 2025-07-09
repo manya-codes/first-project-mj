@@ -58,4 +58,4 @@ guided through steps by ChatGPT, understood and improved all the codes by myself
 Achieved up to **100% accuracy** on test data 🎯
 
 
-and that's it hope you liked the visit!
+and that's it hope you liked the visit! just like everyone else, this was my first ML project, on iris classification.
