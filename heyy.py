@@ -1,0 +1,1 @@
+print("Hey GitHub! this is my first python file here(i have done some codes before haha)")
