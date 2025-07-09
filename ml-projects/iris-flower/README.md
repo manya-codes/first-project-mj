@@ -11,10 +11,10 @@ My first Machine Learning project where I explore the Iris flower dataset using 
 | File                                 | Description                                                            |
 | ------------------------------------ | ---------------------------------------------------------------------- |
 | 1_iris_decision_tree.ipynb           | First attempt using "DecisionTreeClassifier"                           |
-| 2_iris_knn_classifier.ipynb          | Switched to "KNeighborsClassifier" (KNN)                               |
-| 3_knn_output_flower_names.ipynb      | Improved KNN by converting predicted numbers to actual flower names    |
-| 4_knn_clean_output.ipynb             | Removed "np.str_()" for cleaner text output                            |
-| 5_knn_comparison_with_pandas.ipynb   | Final version showing results in a table using "pandas" for comparison |
+| 2_iris_knn.ipynb                     | Switched to "KNeighborsClassifier" (KNN)                               |
+| 3_iris_knn_word_output.ipynb         | Improved KNN by converting predicted numbers to actual flower names    |
+| 4_iris_knn_readable_output.ipynb     | Removed "np.str_()" for cleaner text output                            |
+| 5_iris_knn_presentable_output.ipynb  | Final version showing results in a table using "pandas" for comparison |
 | iris_predictions.csv                 | Output of actual vs predicted flower types                             |
 | README.md                            | Project overview & evolution                                           |
 
@@ -37,9 +37,9 @@ It’s a classic dataset used in ML containing:
 
 
 📊 Model Performance
--Accuracy: 100% on test set
--Visualization: Side-by-side scatter plots for actual vs predicted flower types
--Table view: Added using "pandas" for clearer comparison
+- Accuracy: 100% on test set
+- Visualization: Side-by-side scatter plots for actual vs predicted flower types
+- Table view: Added using "pandas" for clearer comparison
 
 🔧 How to Run
 - Clone this repo or download ZIP
@@ -53,11 +53,11 @@ jupyter notebook
 
 👩🏻‍💻 Author
 made with love and deep curiosity by Manya Jain, just out of school not in any college yet hahah
-guided through steps by ChatGPT, understood and improved all the codes by myself
+guided through steps by ChatGPT, understood and improved the codes by myself
 
 
 🔍 Results
 Achieved up to **100% accuracy** on test data 🎯
 
 
-and that's it hope you liked the visit! just like everyone else, this was my first ML project, on iris classification.
+and that's it hope you liked the visit! just like everyone else, this was my first ML project, on iris flower classification.
