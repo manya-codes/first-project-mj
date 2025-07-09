@@ -22,7 +22,7 @@ I’ve documented every improvement step-by-step, from basic output to clean, re
 🧠 What is the Iris Dataset?
 It’s a classic dataset used in ML containing:
 - 150 rows of flower data
-- 3 classes of flowers: setosa, versicolor, virginica
+- 3 classes of flowers: `setosa`, `versicolor`, `virginica`
 - 4 features: sepal length/width, petal length/width
 
 
@@ -58,7 +58,7 @@ guided through steps by ChatGPT, understood and improved the codes by myself
 
 
 🔍 Results
-Achieved up to **100% accuracy** on test data 🎯
+Achieved up to **100% accuracy** on test data 
 
 
 and that's it hope you liked the visit! just like everyone else, this was my first ML project, on iris flower classification.
