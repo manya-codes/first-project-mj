@@ -1,4 +1,4 @@
-🌸 Iris Flower Classification — ML Journey with KNN & Decision Tree
+🌸 Iris Flower Classification - ML Journey with KNN & Decision Tree
 My first Machine Learning project where I explore the Iris flower dataset using two classic classification algorithms:
 - Decision Tree and
 - K-Nearest Neighbors (KNN)
