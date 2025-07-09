@@ -3,7 +3,8 @@
 My first Machine Learning project where I explore the Iris flower dataset using two classic classification algorithms:
 - Decision Tree and
 - K-Nearest Neighbors (KNN)
-- I’ve documented every improvement step-by-step, from basic output to clean, readable, and human-friendly results.
+
+I’ve documented every improvement step-by-step, from basic output to clean, readable, and human-friendly results.
 
 
 
