@@ -20,15 +20,8 @@ It’s a classic dataset used in ML containing:
 - 150 rows of flower data
 - 3 classes of flowers: setosa, versicolor, virginica
 - 4 features: sepal length/width, petal length/width
-
+  
 💡 Project Evolution (and Learning)
-| Version | Whats New                                      | Why It Matters                             |
-| v1      | ✅ Used DecisionTreeClassifier                | Got first working model with high accuracy |
-| v2      | 🔄 Switched to KNN                            | Explored another popular algorithm         |
-| v3      | 📝 Converted output numbers to flower names   | Made results human-readable                |
-| v4      | 🧹 Removed np.str_()                          | Cleaned the output formatting              |
-| v5      | 📊 Used pandas to show a side-by-side table   | Professional & presentation-ready          |
-
 | Version | What's New                                    | Why It Matters                             |
 | ------- | --------------------------------------------- | ------------------------------------------ |
 | `v1`    | ✅ Used `DecisionTreeClassifier`               | Got first working model with high accuracy |
