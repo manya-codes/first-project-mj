@@ -21,6 +21,19 @@ It’s a classic dataset used in ML containing:
 3 classes of flowers: setosa, versicolor, virginica
 4 features: sepal length/width, petal length/width
 
+💡 Project Evolution (and Learning)
+| Version | Whats New                                      | Why It Matters                             |
+| v1      | ✅ Used DecisionTreeClassifier                | Got first working model with high accuracy |
+| v2      | 🔄 Switched to KNN                            | Explored another popular algorithm         |
+| v3      | 📝 Converted output numbers to flower names   | Made results human-readable                |
+| v4      | 🧹 Removed np.str_()                          | Cleaned the output formatting              |
+| v5      | 📊 Used pandas to show a side-by-side table   | Professional & presentation-ready          |
+
+📊 Model Performance
+Accuracy: 100% on test set
+Visualization: Side-by-side scatter plots for actual vs predicted flower types
+Table view: Added using "pandas" for clearer comparison
+
 ⚙️ Tech Stack
 - Python
 - scikit-learn
